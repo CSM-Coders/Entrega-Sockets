@@ -1,0 +1,43 @@
+[CLIENTE 127.0.0.1:60928] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:60928] Petición recibida: AUTH admin 1234
+
+[CLIENTE 127.0.0.1:60928] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:38352] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:38352] Petición recibida: AUTH admin 1234
+
+[CLIENTE 127.0.0.1:38352] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:40602] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:40602] Petición recibida: AUTH pepe abcd
+
+[CLIENTE 127.0.0.1:40602] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:40602] Petición recibida: JOIN SALA_01
+
+[CLIENTE 127.0.0.1:40602] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:40602] Petición recibida: MOVE 200 150
+
+[CLIENTE 127.0.0.1:40602] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:38352] Petición recibida: MOVE 200 150
+
+[CLIENTE 127.0.0.1:38352] Respuesta enviada: Comando recibido
+[CLIENTE 127.0.0.1:49056] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:49056] Petición recibida: AUTH admin 1234
+[CLIENTE 127.0.0.1:49056] Respuesta enviada: OK_AUTH Bienvenido admin
+[CLIENTE 127.0.0.1:49134] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:49134] Petición recibida: AUTH pepe abcd
+[CLIENTE 127.0.0.1:49134] Respuesta enviada: OK_AUTH Bienvenido pepe
+[CLIENTE 127.0.0.1:49134] Petición recibida: JOIN SALA_01
+[CLIENTE 127.0.0.1:49134] Respuesta enviada: OK_JOIN Te has unido a SALA_01
+[CLIENTE 127.0.0.1:49134] Petición recibida: MOVE 200 150
+[CLIENTE 127.0.0.1:49134] Respuesta enviada: POS YO 200 150
+[CLIENTE 127.0.0.1:38950] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:38950] Petición recibida: AUTH mario 0000
+[CLIENTE 127.0.0.1:48226] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:48226] Petición recibida: AUTH pepe 1234
+[CLIENTE 127.0.0.1:48226] Petición recibida: MOVE 200 200
+[CLIENTE 127.0.0.1:38950] Cliente desconectado.
+[CLIENTE 127.0.0.1:59990] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:59990] Petición recibida: AUTH mario 0000
+[CLIENTE 127.0.0.1:48226] Petición recibida: MOVE 200 200
+[CLIENTE 127.0.0.1:59990] Cliente desconectado.
+[CLIENTE 127.0.0.1:42220] Conexión entrante establecida.
+[CLIENTE 127.0.0.1:48226] Petición recibida: MOVE 200 200
